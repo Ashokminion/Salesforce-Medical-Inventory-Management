@@ -1,4 +1,5 @@
-Medical Inventory Management – Salesforce Project Project Description
+Medical Inventory Management – Salesforce Project
+Project Description
 
 The Medical Inventory Management System is a Salesforce-based application designed to streamline and automate the end-to-end management of medical stock and supply chain operations. The system efficiently manages supplier details, purchase orders, product inventory, and expiry tracking to ensure accurate stock control and timely replenishment.
 
@@ -6,7 +7,14 @@ This solution enables healthcare facilities to maintain real-time inventory visi
 
 Key Features
 
-✅ Supplier registration & management ✅ Product catalog, stock monitoring & expiry tracking ✅ Purchase order creation & processing ✅ Inventory transaction tracking ✅ Automated updates using Flows & Apex Triggers ✅ Validation rules for data accuracy & system compliance ✅ Role-based access using Profiles, Roles, Users & Permission Sets ✅ Real-time dashboards & reporting for insights
+✅ Supplier registration & management
+✅ Product catalog, stock monitoring & expiry tracking
+✅ Purchase order creation & processing
+✅ Inventory transaction tracking
+✅ Automated updates using Flows & Apex Triggers
+✅ Validation rules for data accuracy & system compliance
+✅ Role-based access using Profiles, Roles, Users & Permission Sets
+✅ Real-time dashboards & reporting for insights
 
 Project Flow / Milestones
 
